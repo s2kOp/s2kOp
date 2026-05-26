@@ -39,10 +39,9 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=s2kOp&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s2kOp&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s2kOp&layout=compact&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=s2kOp&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=s2kOp&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=s2kOp&layout=compact&theme=github_dark)
 ---
 
 ### 📫 Let's Connect!
